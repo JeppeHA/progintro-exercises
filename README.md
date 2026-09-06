@@ -8,3 +8,5 @@ https://github.com/JeppeHA/progintro-exercises
 ## Formatting Examples:
 1. *Italic* Tekst2.
 2. **Bold** Tekst2.
+1. *Italic* emphasis.
+2. **Bold** emphasis.
