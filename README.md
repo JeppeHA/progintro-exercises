@@ -6,5 +6,5 @@ My link:
 https://github.com/JeppeHA/progintro-exercises
 - [Is it Christmas?](https://isitchristmas.com)
 ## Formatting Examples:
-1. *Italic* Tekst.
-2. **Bold** Tekst.
+1. *Italic* emphasis.
+2. **Bold** emphasis.
